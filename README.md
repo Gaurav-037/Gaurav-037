@@ -1,4 +1,4 @@
-                                                                       👨‍💻 Hello Developers 👩‍💻
+     👨‍💻 Hello Developers 👩‍💻
 
 - 👋 Hi, I’m Gaurav Shelke [ @Gaurav-037 ]
 - 👀 I’m interested in code & content
