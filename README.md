@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm _Gaurav Shelke_</h1>
-<h3 align="center">A passionate frontend developer interested in code & content...</h3>
-<img align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">A passionate developer interested in code & content...</h3>
+<img align="right" alt="Coding" width=400 src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-037&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-037" /> </p>
 
 - 🌱 I’m currently learning **React (Web Development)**
